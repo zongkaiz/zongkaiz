@@ -5,7 +5,7 @@
 - 🙋‍♂ I graduated from 
 - 🌱 Current Research interest includes **Federated Learning (FL)** and **Locate-then-edit Knowledge Editing**
 - 👀 Please do not hesitate to contact me with any questions or seek cooperation.
-- 📧 Email: zhaozongkai@stu.cqu.edu.cn
+- 📧 Email: zongkaizhao@stu.cqu.edu.cn
 - 📌 Personal blog: None
 - ✨ Progressing together, please!⚡⚡⚡⚡⚡⚡
 - 👍 Last but not least, work hard and enjoy life!
