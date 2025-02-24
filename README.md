@@ -2,7 +2,7 @@
 
 👋 Hello, here is zongkaiz
 
-- 🙋‍♂ I graduated from 
+- 🙋‍♂ I'm a software engineering graduate student at Chongqing University
 - 🌱 Current Research interest includes **Federated Learning (FL)** and **Locate-then-edit Knowledge Editing**
 - 👀 Please do not hesitate to contact me with any questions or seek cooperation.
 - 📧 Email: zongkaizhao@stu.cqu.edu.cn
