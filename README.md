@@ -3,7 +3,7 @@
 👋 Hello, here is zongkaiz
 
 - 🙋‍♂ I graduated from 
-- 🌱 Current Research interest includes **Federated Learning (FL)** and **Event Argument Extraction**
+- 🌱 Current Research interest includes **Federated Learning (FL)** and **Locate-then-edit Knowledge Editing**
 - 👀 Please do not hesitate to contact me with any questions or seek cooperation.
 - 📧 Email: zhaozongkai@stu.cqu.edu.cn
 - 📌 Personal blog: None
